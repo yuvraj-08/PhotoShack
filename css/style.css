@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+}
+
+section{
+	margin:20px 0 20px 0;
+	padding:30px 0 30px 0;
+}
+
+.title{
+	text-align: center;
+	font-size:16px;
+	margin-top:15px;
+	margin-bottom:20px;
+	font-weight: bold;
+}
+
+footer{
+	background-color:rgb(41, 41, 41);
+	color: #ccc;
+	text-align: center;
+	padding: 20px 0;
+}
+footer a {
+	text-decoration: none;
+	color: #ccc;
+}
+footer a:hover{
+	text-decoration: none;
+	color: #ccc;
+	opacity: 0.5;
+}
